@@ -1,0 +1,29 @@
+#header img#logo_header{
+    width: auto;
+    height: 60px;
+}
+
+@media screen and (max-width: 1680px) {
+    #header img#logo_header{
+        width: auto;
+        height: 52px;
+    }
+}
+@media screen and (max-width: 1280px) {
+    #header img#logo_header{
+        width: auto;
+        height: 48px;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    #header img#logo_header{
+        width: auto;
+        height: 44px;
+    }
+}
+
+p{
+    color: #1d242a;
+}
+
